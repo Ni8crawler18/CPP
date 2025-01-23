@@ -1,5 +1,6 @@
-# C++ Tutorial
+# C++ Basics and DSA Repository
+This repository contains a collection of basic C++ code snippets, followed by Object-Oriented Programming (OOP) concepts, and Leetcode-based Data Structures and Algorithms (DSA) problems solved in C++. Learners can use this resource to enhance or revise their understanding of basic C++ concepts and DSA topics.
 
-The repo will hold basic codes for C++, followed by OOPS concepts and Leetcode based DSA questions solved in C++. learners can utilize these resource to enhance/ revise there basic concepts based on topics.
+## Contributing
+Users are welcome to contribute by adding problem-solving questions through a pull request. Contributions can include new problems, explanations, or improvements to existing solutions.
 
-Users can also contribute problem solving questions through a pull request.
